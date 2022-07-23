@@ -1,2 +1,2 @@
-# ejercicio2noticias-y-lista
+# ejercicioPaginaCon2Noticias
 Created with CodeSandbox

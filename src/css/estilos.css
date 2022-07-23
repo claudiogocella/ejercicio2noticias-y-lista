@@ -1,0 +1,62 @@
+body {
+  /*background-color: thistle; */
+  background-image: url ("src/pagina-papel.jpg");
+}
+
+/*Selector tag*/
+h1 {
+  color: darkblue;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+}
+
+/*Selector Clase*/
+
+.parrafo-color {
+  color: blueviolet;
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+}
+
+/* Selector ID*/
+
+#primer-titulo {
+  text-align: center;
+  font-style: italic;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+}
+
+h1 {
+  color: royalblue;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+}
+
+/*Selector Clase*/
+
+.parrafo-color {
+  color: red;
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+}
+
+/* Selector ID*/
+
+#primer-titulo {
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+}
+
+p {
+  text-align: justify;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+}
+
+.lista-desordenada{
+ list-style-type: square; 
+}
+
+.bloque1
+height : 90px
+text align : left
+background color : #CCCCCC
